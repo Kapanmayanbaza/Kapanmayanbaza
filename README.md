@@ -22,7 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapanmayanbaza&show_icons=true&locale=en&layout=compact" alt="kapanmayanbaza" /></p> <br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapanmayanbaza&" alt="kapanmayanbaza" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kapanmayanbaza&" alt="kapanmayanbaza" /></p>
 
 
 <br>
