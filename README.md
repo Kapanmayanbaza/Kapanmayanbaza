@@ -1,4 +1,4 @@
-<h1 align="center"Kapanmayanbaza</h1>
+<h1 align="center">Kapanmayanbaza</h1>
 <h3 align="center">Im a dev from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapanmayanbaza&label=Profile%20views&color=0e75b6&style=flat" alt="kapanmayanbaza" /> </p>
