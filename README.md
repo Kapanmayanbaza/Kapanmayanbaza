@@ -21,7 +21,7 @@
 
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapanmayanbaza&show_icons=true&locale=en&layout=compact" alt="kapanmayanbaza" /></p>
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=kapanmayanbaza&" alt="kapanmayanbaza" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kapanmyanbaza&theme=radical)](https://git.io/streak-stats)
 
 
 
