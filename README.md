@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapanmayanbaza&label=Profile%20views&color=0e75b6&style=flat" alt="kapanmayanbaza" /> </p>
 
-- Im working on [BDORKER](https://github.com/Kapanmayanbaza/BDORKER)
+- Working on [BDORKER](https://github.com/Kapanmayanbaza/BDORKER)
 
-- Im learning **assembly**
+- Learning **assembly**
 
-- How to reach me **kapanmyanbaza@hotmail.com**
+- My email **kapanmyanbaza@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
